@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/media/amraw/92E445DB5C8D7E49/My_Summer_Work/Scala/src/main/scala/scala_99_problems/penultimateElement.scala:4:50: missing parameter type for expanded function[0m
+[0m[[0m[31merror[0m] [0m[0mThe argument types of an anonymous function must be fully known. (SLS 8.5)[0m
+[0m[[0m[31merror[0m] [0m[0mExpected type was: A[0m
+[0m[[0m[31merror[0m] [0m[0m  def findPenultiMateElement[A](ls:List[A]): A = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
